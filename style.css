@@ -1,0 +1,32 @@
+.all {
+    background-color: aliceblue;
+}
+
+.photo {
+    padding-left: 25px;
+
+}
+
+.main {
+    background-color: burlywood;
+    color: dimgray;
+    padding-left: 600px;
+}
+
+.about {
+    /* padding-top: 0.1px; */
+    padding-left: 300px;
+    line-height: 2;
+}
+
+.contact {
+    padding-left: 25px;
+}
+
+h3 {
+    padding-left: 80px;
+}
+
+/* My instagram account -> 
+<a href="https://instagram.com/jasur_mavlonov02"
+target="_blank">Jasur Mavlonov</a> <br>  */
